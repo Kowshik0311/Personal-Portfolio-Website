@@ -17,4 +17,6 @@ A modern, responsive portfolio website to showcase the skills, projects, certifi
 ## 🧾 Certifications
 
 Issued by Infosys SpringBoard (2025):
-- HTML, CSS, Responsive Web Page Design, React JS, Neural Networks & Deep Learning
+- HTML, CSS, Responsive Web Page Design, React JS.
+Issued by Coursera(2025):
+- Neural Networks & Deep Learning.
